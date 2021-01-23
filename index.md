@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/andrewrobertmadsen/andrewrobertmadsen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hey! I'm Andrew Madsen. I am guy living in Salt Lake City, Utah with my wife and three kids just trying to keep it all together. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an avid skier, developer, datahead and Dad. I'm currently working at Pluralsight on their Data Engineering and Operations Team.
 
-### Markdown
+I have no clue what this site will be yet but maybe I'll have an lightning bolt of an idea here soon and we'll find some direction. Until then, best luck fellow earth traveller!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewrobertmadsen/andrewrobertmadsen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Andrew
