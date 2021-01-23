@@ -2,7 +2,7 @@
 
 Hey! I'm Andrew Madsen.
 
-I'm a guy living in Salt Lake City, Utah with my wife and three kids just trying to keep it all together. 
+I'm a guy living in Salt Lake City, Utah with my Wife and three kids just trying to keep it all together. 
 
 I'm an avid skier, developer, datahead and Dad. I'm currently working at Pluralsight on their Data Engineering and Operations Team.
 
