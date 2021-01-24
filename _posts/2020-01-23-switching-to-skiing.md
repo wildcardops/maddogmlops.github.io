@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Switching to skiing."
-authors: Andrew Madsen
+author: Andrew Madsen
 date: 2020-01-23 16:58:00 -0700
 categories: skiing snowboarding life
 ---
