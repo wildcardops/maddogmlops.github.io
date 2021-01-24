@@ -1,6 +1,8 @@
-# Welcome
-
 [Blog]({{ site.url }}/blog)
+
+
+
+# Welcome
 
 Hey! I'm Andrew Madsen.
 
