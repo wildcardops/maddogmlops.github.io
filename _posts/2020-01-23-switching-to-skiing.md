@@ -22,4 +22,4 @@ Since then, I have spent several weekends more paying my skiing dues on the bunn
 
 The bigger lesson to me, however, is how much joy I felt being reconnected with something I loved doing as an child and adolescent. I think as adults, one of the ways we measure ourselves is whether we are able to do for ourselves the things our parents provided to us as children. A coming full circle, if you will. It felt great to get to that place, revisit an old friend and start doing something for my emotional and physical health.
 
--A
+#### -A
