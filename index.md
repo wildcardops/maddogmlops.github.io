@@ -1,5 +1,7 @@
 # Welcome
 
+[Blog]({{ site.url }}/blog)
+
 Hey! I'm Andrew Madsen.
 
 I'm a guy living in Salt Lake City, Utah with my Wife and three kids just trying to keep it all together. 
